@@ -1,2 +1,2 @@
 # docker-prod
-Gitgub account to test Socker deployments to AWS
+Gitgub account to test Docker deployments to AWS
